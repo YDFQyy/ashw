@@ -7,7 +7,7 @@
   "maxAdapt": "8.0.00",
   "dialogTitle": "温馨提示",
   "dialogIntro": "该版本由爱生活52shw.cn 提供，请勿滥用、滥改违规等",
-  "dialogShow": true,
+  "dialogShow": false,
   "dialogExit": false,
   "dialogTime": 0,
   "updateInfo": {
